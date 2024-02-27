@@ -1,0 +1,36 @@
+<!-- File Name: Create.cshtml -->
+<!-- Extension: .cshtml (Razor view file) -->
+
+@model YourNamespace.Models.Insuree // Adjust namespace and model class name as per your project structure
+
+<form asp-controller="Insuree" asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Age">Age:</label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CarYear">Car Year:</label>
+        <input asp-for="CarYear" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CarMake">Car Make:</label>
+        <input asp-for="CarMake" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CarModel">Car Model:</label>
+        <input asp-for="CarModel" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SpeedingTickets">Speeding Tickets:</label>
+        <input asp-for="SpeedingTickets" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="HasDUI">DUI History:</label>
+        <input asp-for="HasDUI" type="checkbox" />
+    </div>
+    <div class="form-group">
+        <label asp-for="IsFullCoverage">Full Coverage:</label>
+        <input asp-for="IsFullCoverage" type="checkbox" />
+    </div>
+    <button type="submit" class="btn btn-primary">Calculate Quote</button>
+</form>

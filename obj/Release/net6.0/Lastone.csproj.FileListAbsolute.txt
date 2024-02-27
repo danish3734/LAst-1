@@ -1,0 +1,5 @@
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Release\net6.0\Lastone.csproj.AssemblyReference.cache
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Release\net6.0\Lastone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Release\net6.0\Lastone.AssemblyInfoInputs.cache
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Release\net6.0\Lastone.AssemblyInfo.cs
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Release\net6.0\Lastone.csproj.CoreCompileInputs.cache

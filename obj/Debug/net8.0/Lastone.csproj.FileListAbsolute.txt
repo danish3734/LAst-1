@@ -1,0 +1,15 @@
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\bin\Debug\net8.0\Lastone.exe
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\bin\Debug\net8.0\Lastone.deps.json
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\bin\Debug\net8.0\Lastone.runtimeconfig.json
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\bin\Debug\net8.0\Lastone.dll
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\bin\Debug\net8.0\Lastone.pdb
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\Lastone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\Lastone.AssemblyInfoInputs.cache
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\Lastone.AssemblyInfo.cs
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\Lastone.csproj.CoreCompileInputs.cache
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\Lastone.dll
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\refint\Lastone.dll
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\Lastone.pdb
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\Lastone.genruntimeconfig.cache
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\ref\Lastone.dll
+C:\Users\Faisal\Documents\1.Mission\Study\GitHub\Lastone\Lastone\obj\Debug\net8.0\Lastone.csproj.AssemblyReference.cache
